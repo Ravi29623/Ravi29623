@@ -1,44 +1,47 @@
 <h1 align="center">Hi 👋, I'm Ravi Barnwal</h1>
-<h3 align="center">Python Developer • Data Science Enthusiast • AI Learner</h3>
+
+<h3 align="center">Java & Python Developer with Data Science</h3>
 
 <p align="center">
-  <a href="https://github.com/Ravi29623">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%282027%29;Python+Developer;Data+Science+Enthusiast;AI+%26+Machine+Learning+Learner;Building+Projects+and+Learning+Every+Day" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=2500&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;AI+%26+GenAI+Explorer;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ravi-barnwal-498206210/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-p39q.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:ravijamui876@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student (2027)
+🎓 B.Tech Computer Science Student (2023 – 2027)
 
-💻 Currently learning:
+🏫 Sagar Institute of Research & Technology, Bhopal
+
+💻 Java & Python Developer
+
+📊 Data Science | Machine Learning | Deep Learning | Generative AI
+
+🤖 Passionate about AI, Data Science and Intelligent Systems
+
+🌱 Currently Learning
+
 - Python Development
 - Data Science
 - Machine Learning
 - DSA in Java
-- AI Tools & Prompt Engineering
-
-🌱 Building real-world projects and preparing for placements.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ravi29623">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+- Generative AI
+- Prompt Engineering
 
 ---
 
@@ -46,54 +49,48 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mongodb,git,github,vscode"/>
+</p>
 
-### Web Development
+### Data Science & AI
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-green?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-red?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### 🧠 Digital Mental Health & Psychological Support System
-- Smart India Hackathon Project
-- AI Chatbot Integration
-- Mood Tracking
-- Appointment Booking
-- Guided Meditation
 
-### 🌐 Personal Portfolio
-- Modern Responsive Design
-- Hosted on Vercel
+✨ Smart India Hackathon Project
 
-### 📊 Data Science Projects
-- Python
-- Pandas
-- NumPy
-- Visualization
+✔ AI Powered Chatbot
+
+✔ Mood Tracking & Analytics
+
+✔ Digital Diary
+
+✔ Appointment Booking
+
+✔ Guided Meditation
+
+✔ Peer Support System
+
+✔ Emergency Assistance
+
+✔ MongoDB Integration
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Dashboard
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ravi29623&show_icons=true&theme=tokyonight" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi29623&layout=compact&theme=tokyonight" />
 </p>
 
@@ -107,17 +104,74 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi29623&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ravi29623&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📚 Certifications
+
+🏅 Generative AI – Google
+
+🏅 Python Programming – Saksham Digital Technology
+
+🏅 Microsoft Office – Tally Academy
+
+🏅 Machine Learning Applications with Agentic AI – Sage Summer School
+
+---
+
 ## 🎯 2026 Goals
 
-- Master Python
-- Strengthen DSA
-- Build Data Science Projects
-- Contribute to Open Source
-- Secure a Software/Data Science Internship
-- Crack Campus Placements 🚀
+✅ Master Python
+
+✅ Build Advanced Data Science Projects
+
+✅ Learn Machine Learning & Deep Learning
+
+✅ Build AI Applications
+
+✅ Contribute to Open Source
+
+✅ Secure Software / Data Science Internship
+
+✅ Crack Placements 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ravi-barnwal-498206210/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-p39q.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:ravijamui876@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Ravi29623&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<h4 align="center">🚀 Keep Learning • Keep Building • Keep Growing 🚀</h4>
