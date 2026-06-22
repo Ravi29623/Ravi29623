@@ -101,7 +101,13 @@ Smart India Hackathon Project focused on student well-being and psychological su
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/Ravi29623/Ravi29623/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</p>
 ## 🏆 Achievements
 
 <p align="center">
